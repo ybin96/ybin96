@@ -15,7 +15,7 @@
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </div>
-<br><br>
+
 
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybin96&layout=compact&theme=slateorange"><br><br>

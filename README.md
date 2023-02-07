@@ -18,9 +18,9 @@
 <br><br>
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybin96&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybin96&layout=compact&theme=tokyonight"><br><br>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ybin96)](https://github.com/ybin96/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ybin96&show_icons=true&theme=tokyonight)](https://github.com/ybin96/github-readme-stats)
 
   </div>
 
